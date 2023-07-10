@@ -109,7 +109,7 @@ def seleccionar_lote(lotes, lotes_seleccionados, clientes, detalles_lotes):
 
     lote_idx = len(lotes_seleccionados) - 1
     mostrar_detalles_lote(lotes_seleccionados, lote_idx,detalles_lotes)
-
+#funcion pasa slair del codigo
 def salir():
     print("¡Gracias por usar LoteosDuoc!")
     exit()
